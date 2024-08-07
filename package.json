@@ -23,7 +23,7 @@
     "country-list": "^2.2.0",
     "credit-card-type": "^9.1.0",
     "dayjs": "^1.11.0",
-    "echarts": "^5.1.2",
+    "echarts": "^5.5.1",
     "echarts-for-react": "^3.0.1",
     "elt-react-credit-cards": "^0.0.1",
     "i18next": "^20.4.0",
